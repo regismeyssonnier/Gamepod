@@ -11,7 +11,7 @@ For **podg_tkdqn16.py**, the model are saved in bestnn.py.pth
 
 See in the code for more info
 
-## 1. AI PPO RL
+## 2. AI PPO RL
 
 **podg_tkdqn16PPORL.py** the best way to converge, use this method PPO. It loads the file superpod.zip for example.
 
